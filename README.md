@@ -3,7 +3,8 @@
 ## Podstawy
 Gracz tworzony na podstawie klasy z bazowymi wartościami dostosowanymi do wybranego typu postaci.
 Dostępne typy postaci:
-1. Rycerz- Bazowe silne strony:
+1. Rycerz
+- Bazowe silne strony:
    - Siła
     - Wytrzymałość
     - Szczęście
