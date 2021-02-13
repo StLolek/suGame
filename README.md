@@ -5,17 +5,17 @@ Gracz tworzony na podstawie klasy z bazowymi wartościami dostosowanymi do wybra
 Dostępne typy postaci:
 ### Rycerz
 1. Bazowe silne strony:
-  - Siła
-  - Wytrzymałość
-  - Szczęście
+    - Siła
+    - Wytrzymałość
+    - Szczęście
 2. Bazowe słabe strony:
-  - Zręczność
-  - Inteligencja
+    - Zręczność
+    - Inteligencja
 ### Mag
 1. Bazowe silne strony:
-  - Inteligencja
-  - Wytrzymałość
-  - Szczęście
+    - Inteligencja
+    - Wytrzymałość
+    - Szczęście
 2. Bazowe słabe strony:
-  - Siła
-  - Zręczność
+    - Siła
+    - Zręczność
