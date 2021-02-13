@@ -10,7 +10,6 @@ Dostępne typy postaci:
 - Bazowe słabe strony:
     - Zręczność
     - Inteligencja
-    
 2. Mag
 - Bazowe silne strony:
     - Inteligencja
