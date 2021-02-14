@@ -20,22 +20,6 @@ Gracz tworzony na podstawie klasy z bazowymi statystykami dostosowanymi do wybra
     - Siła
     - Zręczność
 
-## Typy NPC   
-### Typy wrogie:
-   - **Rycerz** — silne i słabe strony jak wyżej, statystyki przypadkowe, zależne od etapu gry
-   - **Mag** — silne i słabe strony jak wyżej, statystyki przypadkowe, zależne od etapu gry
-   - **Różne zwierzęta** — posiadający tylko siłę, zręczność oraz wytrzymałość. Statystyki przypadkowe.
-
-### Typy przyjazne:
-   - **Kowal** — pozwala poprawić statystyki broni białej, mając przy okazji szanse zepsuć całkowicie bądź częściowo dany przedmiot.
-   - **Kowal od różdżek (nazwa do zmiany)** - pozwala poprawić statystyki różdżek, mając przy okazji szanse zepsuć całkowicie bądź częściowo dany przedmiot.  
-   - **Sklepikarz** — sprzedaje podstawowy sprzęt oraz pożywienie.
-   - **Handlarz** — działa jak sklepikarz, jednak można kupić ulepszone przedmioty. (czarny rynek)
-   - **Mieszkańcy** — przypadkowe osoby, które mogą pomóc z nakierowaniem fabularnym.
-   
-## Miasta:
-Świat gry będzie składał się z 3 miast, jedno magiczne, w którym „rodzimy” się wybierając ścieżkę maga, drugie „rycerskie”, w którym „rodzimy” się wybierając ścieżkę rycerza, oraz jedno wspólne.
-
 ## Co oznaczają statystyki gracza w walce:
 1. **Siła** - będzie składać się z dwóch wartości. Główna statystyka potrzebna rycerzowi.
       - minimalna wartość, którą można zadać podczas ataku bronią białą.
@@ -53,3 +37,20 @@ Gracz tworzony na podstawie klasy z bazowymi statystykami dostosowanymi do wybra
 4. **Szczęście** - szansa na zadanie trafienia krytycznego. Działa dla obu typów tak samo. Jego siłą będzie wyznaczana na podstawie procenta siły/inteligencji. **(W przyszłości dopracować)**
 
 5. **Zręczność** - procentowa szansa na zrobienie uniku. Działa dla obu typów tak samo.
+
+## Typy NPC   
+### Typy wrogie:
+   - **Rycerz** — silne i słabe strony jak wyżej, statystyki przypadkowe, zależne od etapu gry
+   - **Mag** — silne i słabe strony jak wyżej, statystyki przypadkowe, zależne od etapu gry
+   - **Różne zwierzęta** — posiadający tylko siłę, zręczność oraz wytrzymałość. Statystyki przypadkowe.
+
+### Typy przyjazne:
+   - **Kowal** — pozwala poprawić statystyki broni białej, mając przy okazji szanse zepsuć całkowicie bądź częściowo dany przedmiot.
+   - **Kowal od różdżek (nazwa do zmiany)** - pozwala poprawić statystyki różdżek, mając przy okazji szanse zepsuć całkowicie bądź częściowo dany przedmiot.  
+   - **Sklepikarz** — sprzedaje podstawowy sprzęt oraz pożywienie.
+   - **Handlarz** — działa jak sklepikarz, jednak można kupić ulepszone przedmioty. (czarny rynek)
+   - **Mieszkańcy** — przypadkowe osoby, które mogą pomóc z nakierowaniem fabularnym.
+   
+## Miasta:
+Świat gry będzie składał się z 3 miast, jedno magiczne, w którym „rodzimy” się wybierając ścieżkę maga, drugie „rycerskie”, w którym „rodzimy” się wybierając ścieżkę rycerza, oraz jedno wspólne.
+
