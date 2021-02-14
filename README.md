@@ -2,7 +2,7 @@
 
 ## Podstawy
 Gracz tworzony na podstawie klasy z bazowymi statystykami dostosowanymi do wybranego typu postaci oraz płci. Statystyki postaci można rozbudować, na podstawie przedmiotów założonych na postaci. Gracz posiada inwentarz, który pokazuje przedmioty obecnie założone przez gracza, oraz plecak, w którym gracz przechowuje pozostałe przedmioty, np. jedzenie, notatki itp. Gracz będzie również posiadał level, zwiększany poprzez doświadczenie dostawane podczas walk oraz wykonywania innych czynności.
-## Dostępne typy postaci:
+## Dostępne typy postaci
 ### Rycerz
 1. **Bazowe silne strony:**
     - Siła
