@@ -20,7 +20,7 @@ Gracz tworzony na podstawie klasy z bazowymi statystykami dostosowanymi do wybra
     - Siła
     - Zręczność
 
-## Co oznaczają statystyki gracza w walce:
+## Co oznaczają statystyki gracza w walce
 1. **Siła** - będzie składać się z dwóch wartości. Główna statystyka potrzebna rycerzowi.
       - minimalna wartość, którą można zadać podczas ataku bronią białą.
       - maksymalna wartość, którą można zadać podczas ataku bronią białą.
@@ -51,6 +51,6 @@ Gracz tworzony na podstawie klasy z bazowymi statystykami dostosowanymi do wybra
    - **Handlarz** — działa jak sklepikarz, jednak można kupić ulepszone przedmioty. (czarny rynek)
    - **Mieszkańcy** — przypadkowe osoby, które mogą pomóc z nakierowaniem fabularnym.
    
-## Miasta:
+## Miasta
 Świat gry będzie składał się z 3 miast, jedno magiczne, w którym „rodzimy” się wybierając ścieżkę maga, drugie „rycerskie”, w którym „rodzimy” się wybierając ścieżkę rycerza, oraz jedno wspólne.
 
